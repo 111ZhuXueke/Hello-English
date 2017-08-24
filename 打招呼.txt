@@ -12,3 +12,8 @@ milk, 以下简称"mk"
 
 		xk: How is life treating you?   最近过的怎么样
 		mk: I feel great.				我感觉非常棒
+
+	Situation three: 偶然遇见好友
+
+		xk: mk, long time no see.		mk, 好久不见
+		mk: Yes, my friend.				是的，我的朋友
