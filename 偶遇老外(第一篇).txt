@@ -13,5 +13,5 @@ milk, 以下简称"mk"
 		mk: Are you a fan of MongoDB?			你是MongoDB的爱好者吗？
 		xk: Yes, I've been using MongoDB and I feel it  是的，我一直在使用它，我感觉它很棒！
 			's great!
-		mk: Mee too.									我也是
+		mk: Mee too.					我也是
 		
