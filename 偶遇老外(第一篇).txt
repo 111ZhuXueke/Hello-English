@@ -4,14 +4,14 @@ milk, 以下简称"mk"
 	偶遇老外(第一篇): 
 
 		xk: Hello, May I take a picture with you?   	你好，我能和你合个影吗？
-		mk: Of ourse.					当然。
-		xk: Thank you.					(拍照完毕)谢谢。
-		xk: Are you here for the MongDB meeting?	你是来参加MongoDB的峰会吗？
-		mk: Yes, are you, too?				是的，你也是？
+		mk: Of ourse.									当然。
+		xk: Thank you.									(拍照完毕)谢谢。
+		xk: Are you here for the MongDB meeting?		你是来参加MongoDB的峰会吗？
+		mk: Yes, are you, too?							是的，你也是？
 		xk: Yeah, I'm a programmer and I hava received  是啊，我是一名程序员，我收到邀请来这里
 			an invitation to come here.
-		mk: Are you a fan of MongoDB?			你是MongoDB的爱好者吗？
+		mk: Are you a fan of MongoDB?					你是MongoDB的爱好者吗？
 		xk: Yes, I've been using MongoDB and I feel it  是的，我一直在使用它，我感觉它很棒！
 			's great!
-		mk: Mee too.					我也是
+		mk: Mee too.									我也是
 		
