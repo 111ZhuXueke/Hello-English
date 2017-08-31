@@ -10,7 +10,7 @@ milk, 以下简称"mk"
 		mk:  yes, I solved it with jsonp.	 
 
 		xk:  mk， 你觉得这次大会怎么样？
-		mk:  我觉得非常棒，首先，我喜欢它那种键值存储的方式，使用起来非常方便。
+		mk:  我感觉还可以，首先，我感觉MongoDB是非常好的，我喜欢MongoDB那种键值存储的方式，使用起来非常方便。
 		mk:  其次，在开发中，我经常使用json传输数据，因此，我感觉MongoDB挺不错。				 
 		xk:  你遇到过ajax跨域问题吗？
 		mk:  是的，我使用jsonp解决。
