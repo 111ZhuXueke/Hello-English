@@ -9,7 +9,7 @@ milk, 以下简称"mk"
 		mk: I'm the front end.
 		xk: I'm backstage. IT is a promising career.
 		mk: I agree.
-		xk: More and more people are choosing IT, Programming begins tobe generalized, Compete all the time.
+		xk: More and more people are choosing IT, Programming begins to be generalized, Compete all the time.
 		mk: That's it, I read a book about Tencent.
 		xk: Is Tencent?
 		mk: yeah, There is a sentence inside, I always remomber.
