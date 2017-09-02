@@ -1,0 +1,29 @@
+xueke, 以下简称"xk"
+milk, 以下简称"mk"
+	
+	对话英语(第三篇):
+
+		xk: When did you start working in the IT industry?
+		mk: Early 16.
+		xk:	Front or back?
+		mk:	I'm the front end.
+		xk: I'm backstage. IT is a promising career.
+		mk: I agree.
+		xk: More and more people are choosing IT, Programming begins tobe generalized, Compete all the time.
+		mk: That's it, I read a book about Tencent.
+		xk: Is Tencent?
+		mk:	yeah, There is a sentence inside, I always remomber.
+		mk:	We are at the dawn of the Internet, The morning light still shines the way too far.
+		xk:	Each of us is its designer and participant, Maybe all the thorns, But we're still in awe, Full of longing.
+
+		xk: 你什么时候开始从事IT这个行业的？
+		mk:	16年初。
+		xk: 前端还是后台？
+		mk: 我是前端。
+		xk: 我是后台，IT是个很有前途的职业。
+		mk:	我同意。
+		xk:	越来越多的人选择IT，编程开始普遍化，无时无刻都在竞争。
+		mk: 是的, 我看过一本关于腾讯的书。
+		xk:	是腾讯传吗？
+		mk:	是的，里面有一句话，我一直记得它: 我们正处在互联网的黎明时代，微微晨光还照不亮太远的路。
+		xk: 我们每一个人都是它的设计者和参与者，或许一路荆棘，但我们仍然敬畏它(心怀敬畏)，满怀憧憬。
