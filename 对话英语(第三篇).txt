@@ -1,29 +1,29 @@
-xueke, ä»¥ä¸‹ç®€ç§°"xk"
-milk, ä»¥ä¸‹ç®€ç§°"mk"
+xueke, ÒÔÏÂ¼ò³Æ"xk"
+milk, ÒÔÏÂ¼ò³Æ"mk"
 	
-	å¯¹è¯è‹±è¯­(ç¬¬ä¸‰ç¯‡):
+	¶Ô»°Ó¢Óï(µÚÈıÆª):
 
 		xk: When did you start working in the IT industry?
 		mk: Early 16.
-		xk:	Front or back?
-		mk:	I'm the front end.
+		xk: Front or back?
+		mk: I'm the front end.
 		xk: I'm backstage. IT is a promising career.
 		mk: I agree.
-		xk: More and more people are choosing IT, Programming begins tobe generalized, Compete all the time.
+		xk: More and more people are choosing IT, Programming begins to be generalized, Compete all the time.
 		mk: That's it, I read a book about Tencent.
 		xk: Is Tencent?
-		mk:	yeah, There is a sentence inside, I always remomber.
-		mk:	We are at the dawn of the Internet, The morning light still shines the way too far.
-		xk:	Each of us is its designer and participant, Maybe all the thorns, But we're still in awe, Full of longing.
+		mk: yeah, There is a sentence inside, I always remomber.
+		mk: We are at the dawn of the Internet, The morning light still shines the way too far.
+		xk: Each of us is its designer and participant, Maybe all the thorns, But we're still in awe, Full of longing.
 
-		xk: ä½ ä»€ä¹ˆæ—¶å€™å¼€å§‹ä»äº‹ITè¿™ä¸ªè¡Œä¸šçš„ï¼Ÿ
-		mk:	16å¹´åˆã€‚
-		xk: å‰ç«¯è¿˜æ˜¯åå°ï¼Ÿ
-		mk: æˆ‘æ˜¯å‰ç«¯ã€‚
-		xk: æˆ‘æ˜¯åå°ï¼ŒITæ˜¯ä¸ªå¾ˆæœ‰å‰é€”çš„èŒä¸šã€‚
-		mk:	æˆ‘åŒæ„ã€‚
-		xk:	è¶Šæ¥è¶Šå¤šçš„äººé€‰æ‹©ITï¼Œç¼–ç¨‹å¼€å§‹æ™®éåŒ–ï¼Œæ— æ—¶æ— åˆ»éƒ½åœ¨ç«äº‰ã€‚
-		mk: æ˜¯çš„, æˆ‘çœ‹è¿‡ä¸€æœ¬å…³äºè…¾è®¯çš„ä¹¦ã€‚
-		xk:	æ˜¯è…¾è®¯ä¼ å—ï¼Ÿ
-		mk:	æ˜¯çš„ï¼Œé‡Œé¢æœ‰ä¸€å¥è¯ï¼Œæˆ‘ä¸€ç›´è®°å¾—å®ƒ: æˆ‘ä»¬æ­£å¤„åœ¨äº’è”ç½‘çš„é»æ˜æ—¶ä»£ï¼Œå¾®å¾®æ™¨å…‰è¿˜ç…§ä¸äº®å¤ªè¿œçš„è·¯ã€‚
-		xk: æˆ‘ä»¬æ¯ä¸€ä¸ªäººéƒ½æ˜¯å®ƒçš„è®¾è®¡è€…å’Œå‚ä¸è€…ï¼Œæˆ–è®¸ä¸€è·¯è†æ£˜ï¼Œä½†æˆ‘ä»¬ä»ç„¶æ•¬ç•å®ƒ(å¿ƒæ€€æ•¬ç•)ï¼Œæ»¡æ€€æ†§æ†¬ã€‚
+		xk: ÄãÊ²Ã´Ê±ºò¿ªÊ¼´ÓÊÂITÕâ¸öĞĞÒµµÄ£¿
+		mk: 16Äê³õ¡£
+		xk: Ç°¶Ë»¹ÊÇºóÌ¨£¿
+		mk: ÎÒÊÇÇ°¶Ë¡£
+		xk: ÎÒÊÇºóÌ¨£¬ITÊÇ¸öºÜÓĞÇ°Í¾µÄÖ°Òµ¡£
+		mk: ÎÒÍ¬Òâ¡£
+		xk: Ô½À´Ô½¶àµÄÈËÑ¡ÔñIT£¬±à³Ì¿ªÊ¼ÆÕ±é»¯£¬ÎŞÊ±ÎŞ¿Ì¶¼ÔÚ¾ºÕù¡£
+		mk: ÊÇµÄ, ÎÒ¿´¹ıÒ»±¾¹ØÓÚÌÚÑ¶µÄÊé¡£
+		xk: ÊÇÌÚÑ¶´«Âğ£¿
+		mk: ÊÇµÄ£¬ÀïÃæÓĞÒ»¾ä»°£¬ÎÒÒ»Ö±¼ÇµÃËü: ÎÒÃÇÕı´¦ÔÚ»¥ÁªÍøµÄÀèÃ÷Ê±´ú£¬Î¢Î¢³¿¹â»¹ÕÕ²»ÁÁÌ«Ô¶µÄÂ·¡£
+xk: ÎÒÃÇÃ¿Ò»¸öÈË¶¼ÊÇËüµÄÉè¼ÆÕßºÍ²ÎÓëÕß£¬»òĞíÒ»Â·¾£¼¬£¬µ«ÎÒÃÇÈÔÈ»¾´Î·Ëü(ĞÄ»³¾´Î·)£¬Âú»³ã¿ã½¡£

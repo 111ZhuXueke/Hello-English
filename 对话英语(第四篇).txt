@@ -1,0 +1,25 @@
+xueke, 以下简称"xk"
+milk, 以下简称"mk"
+
+		
+		对话英语(第四篇):
+
+			mk:	Why did you choose IT?
+			xk:	At first,  it was due to high salary. 
+			mk:	Do you find it difficult at first?
+			xk:	yes, I'm not very good at English. 
+			xk:	Slowly, I began	to be interfested in it.
+			xk: I'm going go look at some other techniques.
+			mk: For example?
+			xk: When I hava an idea, for example, I want to know the number of keystrokes I use every day.		
+			xk:	Then it will be simple to implement with Python，This is the nature of language，I will study it.
+
+			mk: 你为什么选择IT？
+			xk: 一开始是因为高薪。
+			mk: 刚开始你认为难吗？
+			xk: 是的，我的英文不太好
+			xk: 慢慢的，我开始对它感兴趣。
+			xk: 我会去研究一些其他的技术。
+			mk: 比如？
+			xk:	当我有一个想法，例如，我想知道我每天的按键次数.
+			xk: 那么用python实现应该会比较简单，这个是语言的特性，我就会去研究它.
