@@ -1,25 +1,25 @@
-xueke, ÒÔÏÂ¼ò³Æ"xk"
-milk, ÒÔÏÂ¼ò³Æ"mk"
+xueke, ä»¥ä¸‹ç®€ç§°"xk"
+milk, ä»¥ä¸‹ç®€ç§°"mk"
 
 		
-		¶Ô»°Ó¢Óï(µÚËÄÆª):
+		å¯¹è¯è‹±è¯­(ç¬¬å››ç¯‡):
 
-			mk:	Why did you choose IT?
-			xk:	At first,  it was due to high salary. 
-			mk:	Do you find it difficult at first?
-			xk:	yes, I'm not very good at English. 
-			xk:	Slowly, I began	to be interfested in it.
+			mk: Why did you choose IT?
+			xk: At first,  it was due to high salary. 
+			mk: Do you find it difficult at first?
+			xk: yes, I'm not very good at English. 
+			xk: Slowly, I began to be interfested in it.
 			xk: I'm going go look at some other techniques.
 			mk: For example?
 			xk: When I hava an idea, for example, I want to know the number of keystrokes I use every day.		
-			xk:	Then it will be simple to implement with Python£¬This is the nature of language£¬I will study it.
+			xk: Then it will be simple to implement with Pythonï¼ŒThis is the nature of languageï¼ŒI will study it.
 
-			mk: ÄãÎªÊ²Ã´Ñ¡ÔñIT£¿
-			xk: Ò»¿ªÊ¼ÊÇÒòÎª¸ßĞ½¡£
-			mk: ¸Õ¿ªÊ¼ÄãÈÏÎªÄÑÂğ£¿
-			xk: ÊÇµÄ£¬ÎÒµÄÓ¢ÎÄ²»Ì«ºÃ
-			xk: ÂıÂıµÄ£¬ÎÒ¿ªÊ¼¶ÔËü¸ĞĞËÈ¤¡£
-			xk: ÎÒ»áÈ¥ÑĞ¾¿Ò»Ğ©ÆäËûµÄ¼¼Êõ¡£
-			mk: ±ÈÈç£¿
-			xk:	µ±ÎÒÓĞÒ»¸öÏë·¨£¬ÀıÈç£¬ÎÒÏëÖªµÀÎÒÃ¿ÌìµÄ°´¼ü´ÎÊı.
-			xk: ÄÇÃ´ÓÃpythonÊµÏÖÓ¦¸Ã»á±È½Ï¼òµ¥£¬Õâ¸öÊÇÓïÑÔµÄÌØĞÔ£¬ÎÒ¾Í»áÈ¥ÑĞ¾¿Ëü.
+			mk: ä½ ä¸ºä»€ä¹ˆé€‰æ‹©ITï¼Ÿ
+			xk: ä¸€å¼€å§‹æ˜¯å› ä¸ºé«˜è–ªã€‚
+			mk: åˆšå¼€å§‹ä½ è®¤ä¸ºéš¾å—ï¼Ÿ
+			xk: æ˜¯çš„ï¼Œæˆ‘çš„è‹±æ–‡ä¸å¤ªå¥½
+			xk: æ…¢æ…¢çš„ï¼Œæˆ‘å¼€å§‹å¯¹å®ƒæ„Ÿå…´è¶£ã€‚
+			xk: æˆ‘ä¼šå»ç ”ç©¶ä¸€äº›å…¶ä»–çš„æŠ€æœ¯ã€‚
+			mk: æ¯”å¦‚ï¼Ÿ
+			xk: å½“æˆ‘æœ‰ä¸€ä¸ªæƒ³æ³•ï¼Œä¾‹å¦‚ï¼Œæˆ‘æƒ³çŸ¥é“æˆ‘æ¯å¤©çš„æŒ‰é”®æ¬¡æ•°.
+			xk: é‚£ä¹ˆç”¨pythonå®ç°åº”è¯¥ä¼šæ¯”è¾ƒç®€å•ï¼Œè¿™ä¸ªæ˜¯è¯­è¨€çš„ç‰¹æ€§ï¼Œæˆ‘å°±ä¼šå»ç ”ç©¶å®ƒ.
