@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T08:39:19.268Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="H_BFq7T0MYW1APeAhoCx" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T08:32:57.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="cRwgiGFipn608nw0d9Ix" version="15.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="909" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="9Zn08CkaO5sWKig1gGfh-5" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeColor=#FF3333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="9Zn08CkaO5sWKig1gGfh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="单个文件大小是否超过100KB" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;strokeColor=#FF3333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="单个文件大小是否超过50MB" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;strokeColor=#FF3333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="220" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="return" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#FF3333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="9Zn08CkaO5sWKig1gGfh-18" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="399" y="564.5" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9Zn08CkaO5sWKig1gGfh-20" value="全局限额：批量背调文件上传每日总size不得超过100MB，通过redis全局监控" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;strokeColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="9Zn08CkaO5sWKig1gGfh-20" value="全局限额：批量背调文件上传总size不得超过100MB，通过redis全局监控" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;strokeColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="300" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9Zn08CkaO5sWKig1gGfh-21" value="目录为/data/bgcheck/batchFile/memberId/&lt;br&gt;operatorId/fileName" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;strokeColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -142,20 +142,11 @@
         <mxCell id="9Zn08CkaO5sWKig1gGfh-48" value="填充订单List" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="1030" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9Zn08CkaO5sWKig1gGfh-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9Zn08CkaO5sWKig1gGfh-52" target="9Zn08CkaO5sWKig1gGfh-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9Zn08CkaO5sWKig1gGfh-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9Zn08CkaO5sWKig1gGfh-52" target="9Zn08CkaO5sWKig1gGfh-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Zn08CkaO5sWKig1gGfh-52" value="数量是否超过最大行数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="1110" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="9Zn08CkaO5sWKig1gGfh-54" value="切分list，循环落库数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="1135" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9Zn08CkaO5sWKig1gGfh-56" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="1130" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9Zn08CkaO5sWKig1gGfh-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9Zn08CkaO5sWKig1gGfh-57" target="9Zn08CkaO5sWKig1gGfh-61">
           <mxGeometry relative="1" as="geometry" />
