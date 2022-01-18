@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T05:27:14.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="481y3Us7SKKMMdeDoqnk" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T05:28:52.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="01WX8ZQaQ_HHzuxHMyjL" version="16.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,13 +13,13 @@
         <mxCell id="BXVhkx6Ir-1kvIvybL0w-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BXVhkx6Ir-1kvIvybL0w-0" target="BXVhkx6Ir-1kvIvybL0w-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BXVhkx6Ir-1kvIvybL0w-0" value="&lt;span style=&quot;font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; text-align: right ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#881280&quot; style=&quot;font-size: 12px&quot;&gt;调查项价格金额(S) = sum(originalPrice) - sun(urgentOriginalPrice)&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BXVhkx6Ir-1kvIvybL0w-0" value="&lt;span style=&quot;font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; text-align: right ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#881280&quot; style=&quot;font-size: 12px&quot;&gt;调查项金额（原价）(S) = sum(originalPrice) - sun(urgentOriginalPrice)&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="150" width="410" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BXVhkx6Ir-1kvIvybL0w-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BXVhkx6Ir-1kvIvybL0w-2" target="BXVhkx6Ir-1kvIvybL0w-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BXVhkx6Ir-1kvIvybL0w-2" value="&lt;span style=&quot;color: rgb(136 , 18 , 128) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; text-align: left&quot;&gt;真实价格(A) = priceAfterDiscount（应付金额） - 翻译 - sum(加急)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BXVhkx6Ir-1kvIvybL0w-2" value="&lt;span style=&quot;color: rgb(136 , 18 , 128) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; text-align: left&quot;&gt;折扣价格(A) = priceAfterDiscount（应付金额） - 翻译 - sum(加急)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="195" y="240" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BXVhkx6Ir-1kvIvybL0w-4" value="&lt;span style=&quot;color: rgb(136 , 18 , 128) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; text-align: left&quot;&gt;折扣优惠(D) = A - S&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
